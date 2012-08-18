@@ -218,6 +218,11 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 
+div[role="main"] {
+    margin: auto;
+    width: 960px;
+}
+
 nav {
     background: #fff;
 }
