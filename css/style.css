@@ -395,6 +395,16 @@ ul#cat-nav li   a:hover {
 
 }
 
+article, aside {
+    float: left;
+}
+article {
+    width: 720px;
+}
+aside {
+    width: 240px;
+}
+
 img {
 	margin: 5px;
 	padding: 5px;

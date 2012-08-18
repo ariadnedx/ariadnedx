@@ -33,48 +33,58 @@
   <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
        chromium.org/developers/how-tos/chrome-frame-getting-started -->
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-  <div id="main" role="main">
-  <header>
-    <img class="logo" width="84px" height="82px" alt="Ariadne Diagnostics Logo" src="img/logo_xs.png" />
-    <hgroup>
-        <h1>Ariadne Diagnostics, LLC</h1>
-        <h2>"Leading the Pathway to Prediction"</h2>
-    </hgroup>
+<div id="main" role="main">
+    <header>
+        <img
+            class="logo"
+            width="84px"
+            height="82px"
+            alt="Ariadne Diagnostics Logo"
+            src="img/logo_xs.png"
+        />
+        <hgroup>
+            <h1>Ariadne Diagnostics, LLC</h1>
+            <h2>"Leading the Pathway to Prediction"</h2>
+        </hgroup>
+        <div class="clearfix"></div>
+        <nav>
+            <ul id="cat-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutus.html">About Us</a></li>
+                <li class="drop-menu-parent">
+                    <a href="programs.html">Programs</a>
+                    <ul class="drop-menu-items">
+                        <li>
+                            <a href="programs.html#Tests">
+                                Companion Diagnostics Tests
+                            </a>
+                        </li>
+                        <li>
+                            <a href="programs.html#Services">
+                                Bioinformatics Services
+                            </a>
+                        </li>                    
+                    </ul>
+                </li>
+                <li><a href="pipeline.html">Pipeline</a></li>
+                <!--li><a href="news.html">News</a></li-->
+                <li><a href="contactus.html">Contact Us</a></li>  
+            </ul>
+        </nav>
+    </header>
+    <article>
+        <!--img src="img/pathway.png" style="float:right;"-->		
+        {{ content }}
+        <div class="clearfix"></div>
+    </article>
+    <aside>
+        {% capture sidebar %}{% include news.md %}{% endcapture %}
+        {{ sidebar|markdownify }}
+    </aside>
     <div class="clearfix"></div>
-    <nav>
-        <ul id="cat-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="aboutus.html">About Us</a></li>
-            <li class="drop-menu-parent">
-                <a href="programs.html">Programs</a>
-                <ul class="drop-menu-items">
-                    <li>
-                        <a href="programs.html#Tests">
-                            Companion Diagnostics Tests
-                        </a>
-                    </li>
-                    <li>
-                        <a href="programs.html#Services">
-                            Bioinformatics Services
-                        </a>
-                    </li>                    
-                </ul>
-            </li>
-            <li><a href="pipeline.html">Pipeline</a></li>
-            <li><a href="news.html">News</a></li>
-            <li><a href="contactus.html">Contact Us</a></li>  
-        </ul>
-    </nav>
-  </header>
-  <section>
-      <img src="img/pathway.png" style="float:right;">		
-      {{ content }}
-      <div class="clearfix"></div>
-  <footer>
+    <footer>
     <address>
-        9430 Key West Ave Suite 115, 
-        Rockville, MD 20850.
-        email: <a href="mailto:info@ariadne-dx.com">info@ariadne-dx.com</a>
+        {% include address.html %}
     </address>
     <p>
         &copy; 2012
