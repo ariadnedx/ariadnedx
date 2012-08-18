@@ -218,6 +218,28 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 
+/* 100% tall - maybe remove in the future */
+html {
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+div#main {
+    margin: auto;
+    padding: 1em;
+    width: 960px;
+    min-height: 100%;/* part of 100% tall solution */
+    -moz-box-shadow: 0px 0px 10px #888;
+    -webkit-box-shadow: 0px 0px 10px #888;
+    box-shadow: 0px 0px 10px #888;
+}
+* html #main {
+    height: 100%;/* IE6 fix for 100% height */
+}
+
 header .logo,
 header h1 {
     float: left;
@@ -229,15 +251,6 @@ header h1 {
 
 header nav {
     float: right;
-}
-
-div[role="main"] {
-    margin: auto;
-    padding: 0 1em;
-    width: 960px;
-    -moz-box-shadow: 0px 0px 10px #888;
-    -webkit-box-shadow: 0px 0px 10px #888;
-    box-shadow: 0px 0px 10px #888;
 }
 
 nav {
