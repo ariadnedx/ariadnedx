@@ -240,7 +240,10 @@ div#main {
     height: 100%;/* IE6 fix for 100% height */
 }
 
-html {
+html,
+a.header,
+a.header:hover,
+a.header:visited {
     color: #333;
 }
 
@@ -250,9 +253,9 @@ header hgroup {
 }
 
 header img.logo {
-    margin: 0 0.7em 0 -3px;
+    margin: 0 0 0 -3px;
     width: 84px;/* fixed to avoid jump during loading */
-    padding: 0;
+    padding: 0 0.7em 0 0;
 }
 header h1,
 header h2 {
@@ -317,9 +320,15 @@ ul#cat-nav > li:last-child {
     padding: 5px 10px;
     display: inline-block;
 }
-#cat-nav a:hover { color: #b40404; text-decoration: none; } /* was #000 */
-#cat-nav a:visited { color: #000; text-decoration: none; }
-#cat-nav a:active { color: #b40404; text-decoration: none; } /* was #000 */
+#cat-nav a:hover,
+#cat-nav a:active {
+    color: #444;
+    text-decoration: underline;
+}
+#cat-nav a:visited {
+    color: #444;
+    text-decoration: none;
+}
 
 ul .drop-menu-items  {
     position: absolute;
@@ -339,11 +348,11 @@ ul .drop-menu-items  {
 	list-style: none;
 }
 
-ul.drop-menu-items  li{
+ul.drop-menu-items  li {
     /*background: url(drop-menu-bullet.png) no-repeat 5px center;*/
     float: none;
     position: relative;
-    color: #000; /* was #fff */
+    color: #444;
     /*padding: 5px 15px;
     margin: 0 10px; */
 	margin: 0;
@@ -358,7 +367,7 @@ ul.drop-menu-items  li:last-child{
 
 ul.drop-menu-items  li:hover {
     /*background: #f0f0f0 url(drop-menu-bullet.png) no-repeat  5px center; */
-	color: #088a08;
+	color: #444;
 } 
 
 .drop-menu-parent:hover .drop-menu-items {
@@ -367,7 +376,7 @@ ul.drop-menu-items  li:hover {
 }
 
 #cat-nav > li:hover a{
-    color:#b40404; /* was #fff */
+    color:#444; /* was #fff */
 }
 
 ul#cat-nav li   a:hover {
@@ -378,14 +387,14 @@ ul#cat-nav li   a:hover {
 }
 
 #cat-nav .drop-menu-items li a {
-    color: #000; /* was #fff */
+    color: #444; /* was #fff */
 }
 
 
 #cat-nav .drop-menu-items li:hover a {
     text-decoration: underline;
     background: none;
-    color:     #088a08; /* was #fff */
+    color:     #444; /* was #fff */
 }
 
 .drop-menu-parent:hover {
@@ -399,10 +408,16 @@ article, aside {
     float: left;
 }
 article {
-    width: 720px;
+    width: 710px;
+    padding-right: 10px;
 }
 aside {
     width: 240px;
+}
+aside h2 {
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0;
 }
 
 img {
