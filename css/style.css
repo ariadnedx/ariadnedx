@@ -230,9 +230,9 @@ header nav {
 div[role="main"] {
     margin: auto;
     width: 960px;
-    -moz-box-shadow: 10px 10px 5px #888;
-    -webkit-box-shadow: 10px 10px 5px #888;
-    box-shadow: 10px 10px 5px #888;
+    -moz-box-shadow: 0px 0px 10px #888;
+    -webkit-box-shadow: 0px 0px 10px #888;
+    box-shadow: 0px 0px 10px #888;
 }
 
 nav {
