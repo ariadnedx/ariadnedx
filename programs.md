@@ -22,7 +22,7 @@ neuromuscular and neurodegenerative disease.
 
 ##Cancers
 
-##Colorector Spectra
+##Colorector Cancer
 
 Colorectal cancer (CRC) is the third most common cancer in both men and women. Each year, there are an estimated one million newly 
 diagnosed cases of CRC worldwide. Approximately half of all patients with CRC will develop metastases and the majority of these patients 
