@@ -241,20 +241,27 @@ div#main {
 }
 
 header .logo,
-header h1 {
+header hgroup {
     float: left;
 }
-
-header h1 {
+header h1,
+header h2 {
     margin: 0;
+}
+header h1 {
+    font-size: 1.7em;
+}
+header h2 {
+    font-size: 1.2em;
 }
 
 header nav {
     float: right;
+    background: #fff;
 }
 
-nav {
-    background: #fff;
+footer {
+    text-align: center;
 }
 
 #cat-nav {
