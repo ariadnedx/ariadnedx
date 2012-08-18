@@ -32,7 +32,7 @@ audio:not([controls]) { display: none; }
 
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
-html, button, input, select, textarea { font-family: sans-serif; color: #222; }
+html, button, input, select, textarea { font-family: verdana, sans-serif; color: #222; }
 
 body { margin: 0; font-size: 1em; line-height: 1.4; }
 
@@ -229,7 +229,7 @@ body {
 }
 div#main {
     margin: auto;
-    padding: 1em;
+    padding: 0;
     width: 960px;
     min-height: 100%;/* part of 100% tall solution */
     -moz-box-shadow: 0px 0px 10px #888;
@@ -240,21 +240,32 @@ div#main {
     height: 100%;/* IE6 fix for 100% height */
 }
 
-html,
+html {
+    color: #333;
+}
+
+nav,
+article,
+footer {
+    padding: 0 10px;
+}
+
+div.logo-container {
+    background: #4a668e;
+    padding: 10px;
+}
 a.header,
 a.header:hover,
 a.header:visited {
-    color: #333;
+    color: #fff;
 }
 
 header .logo,
 header hgroup {
     float: left;
 }
-
 header img.logo {
-    margin: 0 0 0 -3px;
-    width: 84px;/* fixed to avoid jump during loading */
+    margin: 0;
     padding: 0 0.7em 0 0;
 }
 header h1,
@@ -273,7 +284,7 @@ header h2 {
 
 header nav {
     background: #fff;
-    margin-top: 1.5em;
+    margin-top: 0.55em;
 }
 
 footer {
@@ -408,8 +419,7 @@ article, aside {
     float: left;
 }
 article {
-    width: 710px;
-    padding-right: 10px;
+    width: 690px;
 }
 aside {
     width: 240px;
