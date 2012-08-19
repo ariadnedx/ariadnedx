@@ -285,12 +285,6 @@ header h2 {
     line-height: 22px;
     text-transform: uppercase;
 }
-
-header nav {
-    background: #fff;
-    margin-top: 0.55em;
-}
-
 footer {
     text-align: center;
 }
@@ -299,20 +293,18 @@ footer {
     /*background-color: #0f0609, #0f0609;
     background-image: url(cat-nav-bg.jpg), url(cat-nav-bg-bottom.jpg);
     background-repeat: no-repeat, repeat-y;*/
-    margin-top: -8px;
     display: block;
 }
 
-#cat-nav:after {
+/*#cat-nav:after {
     content: " ";
     display: block;
     clear: both;
-
     width: 81%;
     padding-top: 8px;
     margin: 0 auto;
-    /*background: url(teeth.png) repeat-x;*/
-}
+    /*background: url(teeth.png) repeat-x;
+}*/
 
 ul#cat-nav > li {
     /*text-align: center;*/
