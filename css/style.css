@@ -386,7 +386,7 @@ ul.drop-menu-items  li:hover {
     color:#444; /* was #fff */
 }
 
-ul#cat-nav li   a:hover {
+ul#cat-nav li:hover {
     background: #eee;
 }
 
@@ -397,15 +397,8 @@ ul#cat-nav li   a:hover {
 
 #cat-nav .drop-menu-items li:hover a {
     text-decoration: underline;
-    background: none;
+    background: #eee;
     color:     #444; /* was #fff */
-}
-
-.drop-menu-parent:hover {
-    /*background: #000;
-    background-color: #000;*/
-    border-radius: 5px 5px 0 0;
-
 }
 
 article, aside {
@@ -419,6 +412,7 @@ aside {
     padding-left: 10px;
     border-left: 1px dotted #aaa;
     background: #fafafa;
+    margin-top: -1.9em;
 }
 aside h2 {
     font-size: 1em;
