@@ -351,9 +351,9 @@ ul .drop-menu-items  {
     /*background: #000 url(drop-menu-bg.png) bottom repeat-x;*/
     /*-webkit-box-shadow: 0px 0px 5px #8f8f8f;
     -moz-box-shadow:    0px 0px 5px #8f8f8f;
-    box-shadow:         0px 0px 5px #8f8f8f;*/
+    box-shadow:         0px 0px 5px #8f8f8f;
     -moz-border-radius: 0 0 10px 10px;
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;*/
     border: 1px solid #cecece;
 
 	/* AM */
@@ -395,10 +395,7 @@ ul.drop-menu-items  li:hover {
 }
 
 ul#cat-nav li   a:hover {
-    /*background: #000;*/
-    border-radius: 5px;
-    /* padding-top: 5px; */
-
+    background: #eee;
 }
 
 #cat-nav .drop-menu-items li a {
@@ -423,10 +420,13 @@ article, aside {
     float: left;
 }
 article {
-    width: 550px;
+    width: 551px;
 }
 aside {
-    width: 370px;
+    width: 360px;
+    padding-left: 10px;
+    margin-left: 1px dotted #aaa;
+    background: #fafafa;
 }
 aside h2 {
     font-size: 1em;
