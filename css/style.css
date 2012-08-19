@@ -423,9 +423,9 @@ article {
     width: 551px;
 }
 aside {
-    width: 360px;
+    width: 358px;
     padding-left: 10px;
-    margin-left: 1px dotted #aaa;
+    border-left: 1px dotted #aaa;
     background: #fafafa;
 }
 aside h2 {
