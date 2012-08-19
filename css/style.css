@@ -221,6 +221,7 @@ td { vertical-align: top; }
 /* 100% tall - maybe remove in the future */
 html {
     height: 100%;
+    background-color: #bbb;
 }
 body {
     margin: 0;
@@ -228,6 +229,7 @@ body {
     height: 100%;
 }
 div#main {
+    background-color: #fff;
     margin: auto;
     padding: 0;
     width: 960px;
