@@ -222,6 +222,8 @@ td { vertical-align: top; }
 html {
     /*height: 100%;*/
     background-color: #bbb;
+    color: #333;
+    font-size: 0.9em;
 }
 body {
     margin: 0;
@@ -245,22 +247,21 @@ div#main {
     /*height: 100%;/* IE6 fix for 100% height */
 }
 
-html {
-    color: #333;
+nav {
+    padding: 0 10px;
 }
 
-nav,
 article,
 footer {
-    padding: 0 10px;
+    padding: 0 20px;
 }
 
 div.logo-container {
     background: #4a668e url(../img/pencil.png) no-repeat right top;
     padding: 20px 0 20px 20px;
-    -moz-box-shadow: 0 0 5px #000;
-    -webkit-box-shadow: 0 0 5px #000;
-    box-shadow: 0 0 5px #000;
+    -moz-box-shadow: 0 0 5px #555;
+    -webkit-box-shadow: 0 0 5px #555;
+    box-shadow: 0 0 5px #555;
 }
 a.header,
 a.header:hover,
