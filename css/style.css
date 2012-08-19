@@ -237,6 +237,9 @@ div#main {
     -moz-box-shadow: 0px 0px 10px #888;
     -webkit-box-shadow: 0px 0px 10px #888;
     box-shadow: 0px 0px 10px #888;
+    border: 1px solid #999;
+    border-top: none;
+    border-bottom: none;
 }
 * html #main {
     height: 100%;/* IE6 fix for 100% height */
