@@ -242,7 +242,7 @@ div#main {
     /*border-bottom: none;*/
 }
 * html #main {
-    height: 100%;/* IE6 fix for 100% height */
+    /*height: 100%;/* IE6 fix for 100% height */
 }
 
 html {
