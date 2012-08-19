@@ -371,13 +371,13 @@ ul.drop-menu-items  li {
     border-bottom: 1px dotted #cecece;
 }
 
-ul.drop-menu-items  li:last-child{
+ul.drop-menu-items  li:last-child {
 	border-bottom: none;
 }
 
 ul.drop-menu-items  li:hover {
-    /*background: #f0f0f0 url(drop-menu-bullet.png) no-repeat  5px center; */
 	color: #444;
+    background: #eee;
 } 
 
 .drop-menu-parent:hover .drop-menu-items {
@@ -386,18 +386,16 @@ ul.drop-menu-items  li:hover {
 }
 
 #cat-nav > li:hover a{
-    color:#444; /* was #fff */
+    color:#444;
 }
 
 #cat-nav .drop-menu-items li a {
-    color: #444; /* was #fff */
+    color: #444;
 }
-
 
 #cat-nav .drop-menu-items li:hover a {
     text-decoration: none;
-    background: #eee;
-    color:     #444; /* was #fff */
+    color:     #444;
 }
 
 article, aside {
