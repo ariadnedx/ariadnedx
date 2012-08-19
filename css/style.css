@@ -386,17 +386,13 @@ ul.drop-menu-items  li:hover {
     color:#444; /* was #fff */
 }
 
-ul#cat-nav li:hover {
-    background: #eee;
-}
-
 #cat-nav .drop-menu-items li a {
     color: #444; /* was #fff */
 }
 
 
 #cat-nav .drop-menu-items li:hover a {
-    text-decoration: underline;
+    text-decoration: none;
     background: #eee;
     color:     #444; /* was #fff */
 }
