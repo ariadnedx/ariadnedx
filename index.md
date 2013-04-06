@@ -3,11 +3,12 @@ layout: home
 title: Ariadne Diagnostics
 ---
 
+Ariadne Diagnostics, LLC is a molecular diagnostic company focused on discovery and development of companion diagnostic tests in areas of oncology and rare neuromuscular/neurodegenerative diseases.
+
 ##Mission
 
-* To improve the standard of care for patients through the development of targeted diagnostics
-* To apply the power of 21<sup>st</sup> century Bioinformatics to identify targeted and integrated biomarker panels for companion diagnostic development</li>
-* To utilize the principles of translational medicine to continually improve existing and future diagnostic tests
+* To advance personalized medicine and facilitate pharmaceutical decisions by creating tests based on novel insights into mechanisms of disease
+* To combine clinical expertise and knowledge-driven informatics to uncover disease mechanisms from molecular patient data
 
 {% for post in site.posts %}
      <div class="hero-unit">
