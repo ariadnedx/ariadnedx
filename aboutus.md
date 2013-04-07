@@ -37,15 +37,15 @@ drug agents on individual patients.
 
 The company focuses on
 
-(1) Discovery work to provide the data supporting biomarker selection; 
+1. Discovery work to provide the data supporting biomarker selection; 
 
-(2) Bioinformatic studies to integrate that data for the selection of biomarkers; 
+2. Bioinformatic studies to integrate that data for the selection of biomarkers; 
 
-(3) Biological & clinical studies to validate the utility of selected biomarkers; 
+3. Biological & clinical studies to validate the utility of selected biomarkers; 
 
-(4) Assay development to support the development of clinical diagnostics 
+4. Assay development to support the development of clinical diagnostics 
 
-(5) Clinical validation studies for the purposes of supporting diagnostic test approvals and commercialization.
+5. Clinical validation studies for the purposes of supporting diagnostic test approvals and commercialization.
 
 ### Management Team
 ###Ilya Mazo, Founder, Acting Chief Executive Officer
