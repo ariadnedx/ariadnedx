@@ -3,16 +3,14 @@ layout: home
 title: Pipeline
 ---
 
-It will be a graph here with a short description. 
-
-##The mCRC-strat<sup>TM</sup> test
-
-The biomarker panel underlying mCRC-strat&trade; is currently undergoing the final stages of initial proof-of-concept work and has 
-entered into the bio-assay design stage to optimize biomarker measurement. Initial clinical validation is expected to commence 
-in the first quarter of 2013 and final validation studies will be performed subsequently.  
-
-It will be a graph here with a short description.
-
-Need to have years. 
-
-Should include NMD program
+<table>
+  <tr>
+    <th>Program</th><th>Product name</th><th>Year</th><th>Description</th><th>Market</th>
+  </tr>
+  <tr>
+    <th>Cancer</th><th>mCRC-strat™</th><th>2014</th><th>IHC tissue test for mCRC</th><th>EU, US</th>
+  </tr>
+  <tr>
+    <th>NMD</th><th>TBD</th><th>2015</th><th>SNP test</th><th>EU, US</th>
+  </tr>
+</table>
