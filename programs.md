@@ -29,8 +29,8 @@ mCRC-start will predict the likelihood of an individual patient with mCRC to res
 
 Neuromuscular diseases (NMDs) form a diverse group of rare heterogeneous conditions which collectively affect between 6 and 8 million people worldwide. The most frequently occurring inherited forms of NMDs include Duchenne muscular dystrophy (DMD), spinal muscular atrophy (SMA), hereditary polyneuropathies (such as Charcot Marie Tooth disease) and myotonic dystrophy. There are currently no cures and few effective therapies for these diseases. 
 
-Add paragraph about neurodegenerative diseases (NDD)
 Novel therapeutic development in rare disorders including NMD and NDD is complicated not only because of the relatively low number of patients available for clinical trials but due to critical challenges regarding identification and development of sensitive and reliable outcome measures to adequately power smaller clinical trials. For these reasons, the identification of sensitive and reliable surrogate biomarkers becomes a high priority for facilitating the evaluation of emerging therapies in drug trials and regulatory approval in NMD and NDD. Thus, the use of biomarkers for the diagnosis, prognosis, and monitoring of NMD/NDD as well as to guide the choice of therapeutic regimens is predicted to be one of the leading priorities in clinical practice. 
+
 Ariadne-Dx is a member of two EU consortia (see our collaborators) that are working on to find the panel of surrogate biomarkers to monitor these diseases and also find the potential drug targets. 
 
 •	Ariadne-Dx retains rights to develop and market diagnostic tests discovered together with its collaborators
