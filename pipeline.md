@@ -3,14 +3,14 @@ layout: home
 title: Pipeline
 ---
 
-<table>
+<table cellpadding="5">
   <tr>
     <th>Program</th><th>Product name</th><th>Year</th><th>Description</th><th>Market</th>
   </tr>
   <tr>
-    <th>Cancer</th><th>mCRC-strat™</th><th>2014</th><th>IHC tissue test for mCRC</th><th>EU, US</th>
+    <td>Cancer</td><td>mCRC-strat™</td><td>2014</td><td>IHC tissue test for mCRC</td><td>EU, US</td>
   </tr>
   <tr>
-    <th>NMD</th><th>TBD</th><th>2015</th><th>SNP test</th><th>EU, US</th>
+    <td>NMD</td><td>TBD</td><td>2015</td><td>SNP test</td><td>EU, US</td>
   </tr>
 </table>
