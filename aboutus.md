@@ -109,7 +109,7 @@ Chicago.
 ###USA
 ###Otto Ruesch Center
 
-Otto Ruesch Center at the Georgetown University (http://lombardi.georgetown.edu/gi/). (Washington, DC).
+Otto Ruesch Center at the Georgetown University (<a href="http://lombardi.georgetown.edu/gi/">http://lombardi.georgetown.edu/gi/</a>). (Washington, DC).
 
 The Otto Ruesch Center at Georgetown University (GU). GU has been identified as one of 40 NCI-designated comprehensive 
 cancer treatment centers in the U.S. The recently founded Otto Ruesch Center at GU has already become one of the global 
@@ -120,7 +120,7 @@ product at the Otto Ruesch Center at GU based on standard of care clinical guide
 
 ###The Johns Hopkins Colon Cancer Center
 
-The Johns Hopkins Colon Cancer Center (http://www.hopkinscoloncancercenter.org) is a multidisciplinary program providing
+The Johns Hopkins Colon Cancer Center (<a href="http://www.hopkinscoloncancercenter.org">http://www.hopkinscoloncancercenter.org</a>) is a multidisciplinary program providing
 comprehensive diagnostic testing and multidisciplinary consultation services for patients diagnosed with cancer. This 
 center has an excellent team of physicians from the departments of oncology, surgery, medicine, and pathology, along 
 with a team of specialized nurses, social workers, and genetic counselors, are dedicated to the management and cure of 
@@ -130,7 +130,7 @@ Center using standard of care clinical guidelines.
 
 ###Center for Colon Cancer Research
 
-The Center for Colon Cancer Research (http://cccr.sc.edu/)  (Columbia, SC) was originally established in 2002 by the 
+The Center for Colon Cancer Research (<a href="http://cccr.sc.edu/">http://cccr.sc.edu/</a>)  (Columbia, SC) was originally established in 2002 by the 
 National Institutes of Health Center for Biomedical Research Excellence (COBRE) grant. The Center for Colon Cancer 
 Research (CCCR) is the first of its kind in South Carolina and is a driving force leading the development of innovative 
 and groundbreaking research in colorectal cancer. Ariadne-Dx is in the process of formulating an agreement with David 
@@ -138,7 +138,7 @@ Reisman, the Director of the CCCR Tissue Biorepository to obtain samples from re
 treatment.
 
 ###Israel
-###BioMarCare Technologies Ltd. (www.biomarcare.com): 
+###BioMarCare Technologies Ltd. (<a href="www.biomarcare.com">www.biomarcare.com</a>): 
 
 BioMarCare is dedicated to the development of a cluster of high value in-vitro diagnostics for early detection, 
 prognosis and monitoring of cancer. The company's Multi-Biomarker Panel approach, combined with its technological and 
@@ -165,9 +165,9 @@ transfer company of the Hadassah Hospital, Jerusalem.
 ###EU 
 
 Ariadne-Dx is a member of two European Union funded Consortia that are targeted towards the development of biomarkers 
-for NMD and NDD. The first consortium, Bio-NMD (www.bio-nmd.eu ) is primarily focused on Duchenne and Becker's muscular 
+for NMD and NDD. The first consortium, Bio-NMD (<a href="www.bio-nmd.eu">www.bio-nmd.eu</a> ) is primarily focused on Duchenne and Becker's muscular 
 dystrophies (DMD, BMD). The second consortium, NEUROMICS, is targeting 10 rare disease areas that comprise more than 15 
-NMD/NDDs (www.rd-neuromics.eu). These consortia, supply the Company with a distinct advantage in developing biomarkers 
+NMD/NDDs (<a href="www.rd-neuromics.eu">www.rd-neuromics.eu</a>). These consortia, supply the Company with a distinct advantage in developing biomarkers 
 for this disease area; specifically, the supply and analysis of bio-specimens from a much larger number of patients with
 these diseases than would be otherwise available. For both consortia, the Company is supplying all of the bio-informatic
 support and as one of the only commercial entities involved in the consortia, retains the rights to develop and market 
