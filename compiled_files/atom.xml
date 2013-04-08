@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>GitWatcher Blog</title>
+ <link href="http://gitwatcher.com/blog/atom.xml" rel="self"/>
+ <link href="http://gitwatcher.com/blog"/>
+ <updated>2013-04-08T00:06:18+00:00</updated>
+ <id>http://gitwatcher.com/blog</id>
+ <author>
+   <name>Luca G. Soave</name>
+ </author>
+
+ 
+ 
+</feed>

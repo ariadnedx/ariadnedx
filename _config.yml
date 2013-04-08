@@ -1,6 +1,6 @@
-markdown: rdiscount
+markdown: maruku
 permalink: /:title.html
-destination: ../public/ariadne
+destination: compiled_files
 auto: false
 exclude:
   - Rakefile
