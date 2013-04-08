@@ -165,9 +165,9 @@ transfer company of the Hadassah Hospital, Jerusalem.
 ###EU 
 
 Ariadne-Dx is a member of two European Union funded Consortia that are targeted towards the development of biomarkers 
-for NMD and NDD. The first consortium, Bio-NMD (<a href="www.bio-nmd.eu">www.bio-nmd.eu</a> ) is primarily focused on Duchenne and Becker's muscular 
+for NMD and NDD. The first consortium, Bio-NMD (<a href="http://www.bio-nmd.eu">www.bio-nmd.eu</a> ) is primarily focused on Duchenne and Becker's muscular 
 dystrophies (DMD, BMD). The second consortium, NEUROMICS, is targeting 10 rare disease areas that comprise more than 15 
-NMD/NDDs (<a href="www.rd-neuromics.eu">www.rd-neuromics.eu</a>). These consortia, supply the Company with a distinct advantage in developing biomarkers 
+NMD/NDDs (<a href="http://www.rd-neuromics.eu">www.rd-neuromics.eu</a>). These consortia, supply the Company with a distinct advantage in developing biomarkers 
 for this disease area; specifically, the supply and analysis of bio-specimens from a much larger number of patients with
 these diseases than would be otherwise available. For both consortia, the Company is supplying all of the bio-informatic
 support and as one of the only commercial entities involved in the consortia, retains the rights to develop and market 
