@@ -3,7 +3,7 @@ layout: home
 title: Pipeline
 ---
 
-<table cellpadding="5">
+<table cellpadding="5" rules="all">
   <tr>
     <th>Program</th><th>Product name</th><th>Year</th><th>Description</th><th>Market</th>
   </tr>
