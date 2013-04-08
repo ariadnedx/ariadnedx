@@ -68,8 +68,8 @@ and commercializing novel therapeutic and diagnostic products for cancer, includ
 and diseases of the central nervous system. Prior to founding Ariadne-Dx, she worked at 20/20 GeneSystems Inc., where 
 she helped to develop a diagnostic test for the early detection of lung cancer. Before that she worked at Panacea 
 Pharmaceuticals Inc., where she was involved in drug development for Alzheimer's Disease and other neurodegenerative 
-disorders. Dr. Schwartz received her PhD in Cancer Biology at the Pasteur Institute, France in 2000 and MD from the 
-Institute of Biochemistry, Novosibirsk, Russia. 
+disorders. Dr. Schwartz received her PhD in Molecular Biology and Biochemistry from the Institute of Biochemistry, 
+Novosibirsk, Russia. 
 
 ###Michael S. Lebowitz, Founder, Vice President of Research & Development
 
