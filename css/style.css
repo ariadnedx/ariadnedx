@@ -407,6 +407,7 @@ article {
 aside {
     width: 358px;
     padding-left: 10px;
+    padding-right: 5px;
     border-left: 1px dotted #aaa;
     background: #fafafa;
     margin-top: -1.9em;
