@@ -10,10 +10,12 @@ as cetuximab for metastatic colon cancer patients.
 
 ##Publications
 
-<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002365">"Novel Approach to Meta-Analysis of Microarray Datasets
+<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002365">
+"Novel Approach to Meta-Analysis of Microarray Datasets
 Reveals Muscle Remodeling-related Drug Targets and
-Biomarkers in Duchenne Muscular Dystrophy"</a>, Ekaterina Kotelnikova, Maria A. Shkrob, Mikhail A. Pyatnitskiy, Alessandra Ferlini, Nikolai
-Daraselia, PLoS Computational Biology, February 2012, Volume 8, Issue 2, e1002365.
+Biomarkers in Duchenne Muscular Dystrophy"</a>, 
+Ekaterina Kotelnikova, Maria A. Shkrob, Mikhail A. Pyatnitskiy, Alessandra Ferlini, 
+Nikolai Daraselia, PLoS Computational Biology, February 2012, Volume 8, Issue 2, e1002365.
 
 ##NEUROMICS award
 
