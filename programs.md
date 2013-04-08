@@ -3,14 +3,14 @@ layout: home
 title: Programs
 ---
 
+<a name="Tests"></a>
 ##Companion Diagnostics Tests
 
 In pharmaceutical discovery an emphasis on the personalized medicine became a reality, and many new drugs  start coming to market supported by tests that will help to make the decisions of who gets what drug, what's the appropriate dose, and who's in the greatest danger of serious side effects. 
 
 In recognition of the value of such tests, internal research and development at Ariadne-Dx is focused on the development of companion diagnostics (CDx) for cancer and neuromuscular/neurodegenerative disorders. Our approach is based on a better understanding of mechanism of biological processes and newly available data from testing at the molecular level to characterize patients and disease.
 
-##Cancers
-
+<a name="Cancer"></a>
 ##Colorector Cancer
 
 Colorectal cancer (CRC) is the third most common cancer in both men and women. Each year, there are an estimated one million newly diagnosed cases of CRC worldwide and approximately half of the patients are developing metastases.
@@ -42,3 +42,8 @@ Ariadne-Dx is a member of two EU consortia (see our collaborators) that are work
 –	Disease Monitoring
 
 The company expects to obtain certain regulatory advantages in the marketing of these tests due to the orphan status of these diseases.
+
+<a name="Research"></a>
+##Contract Research and Biomarker Program Support 
+
+The Company offers its services in biomarker candidate discovery and validation. Ariadne-Dx tailors its offerings for each client and services include biomarker discover, assay development, assay validation and clinical studies.
